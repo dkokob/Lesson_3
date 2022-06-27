@@ -15,3 +15,6 @@
 2. Example
 
 # *That* **is** *how* **you** *can* **use** *MarkDown* **!!!**
+
+# How to use **git**
+1. Create a **repository** with comand *git init*
