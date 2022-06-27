@@ -21,3 +21,5 @@
 2. Start working in file and save it with **CTRL+S**
 3. Save it in git with command **git add**
 4. Make a commit with command **git commit** with messadge **-m**
+5. If you want to change your commit, you can find it with command **git log**
+6. To go to the choosen commit use command **git checkout + (number of commit)**
