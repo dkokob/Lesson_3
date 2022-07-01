@@ -26,5 +26,5 @@ It can __help you to *combine* fonts__
 5. If you want to change your commit, you can find it with command **git log**
 6. To go to the choosen commit use command **git checkout + (number of commit)**
 
-# It's Luna
+# It's Luna. Probably now?
 ![The best cat in the world](Luna.jpg)
