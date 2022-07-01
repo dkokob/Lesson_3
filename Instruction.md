@@ -1,10 +1,12 @@
 # Instruction
 
-## For *italics* use **
-*Example*
+## For *italics* use ** or _
+_For *Example*_
 
-## To use bold font use double**
-**Example**
+## To use bold font use double** or __
+__For **Example**__
+
+It can __help you to *combine* fonts__
 
 ## To make a bullit list use *
 * Example 1
