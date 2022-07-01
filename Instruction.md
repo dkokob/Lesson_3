@@ -30,3 +30,7 @@ It can __help you to *combine* fonts__
 ![The best cat in the world](Luna.jpg)
 # It's Volt
 ![The best dog in the world](Volt.jpg)
+
+
+The screenshot of the conflict __(the right part of the picture):__
+![Now it works](Conflict.jpg)
