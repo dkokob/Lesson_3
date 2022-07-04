@@ -41,3 +41,6 @@ The screenshot of the conflict __(the right part of the picture):__
 
 
 # Working local
+
+
+# Working on server
