@@ -35,4 +35,6 @@ It can __help you to *combine* fonts__
 The screenshot of the conflict __(the right part of the picture):__
 ![Now it works](Conflict.jpg)
 
-Let's Push!
+#Let's Push!
+
+#And now let's pull
